@@ -717,7 +717,7 @@ welcome
 
 @media (max-width: 765px) {
   .welcome-area {
-    margin-bottom: 100px;
+    margin-bottom: 0px;
   }
   .welcome-area .header-text {
     top: 50% !important;
